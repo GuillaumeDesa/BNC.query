@@ -6,4 +6,4 @@ An interactive R script for a sociolinguistic exploration of the spoken componen
 Access the full tutorial here: https://corpling.hypotheses.org/2252
 
 If you use the script for your research or publication, please cite it as follows:
-Guillaume Desagulier, "BNC.query(). An interactive R script for a sociolinguistic exploration of the spoken component of the BNC-XML," in Around the word, 08/01/2019, https://corpling.hypotheses.org/2252.
+Guillaume Desagulier, "`BNC.query()`. An interactive R script for a sociolinguistic exploration of the spoken component of the BNC-XML," in *Around the word*, 08/01/2019, https://corpling.hypotheses.org/2252.
